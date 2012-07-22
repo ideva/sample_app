@@ -5,7 +5,7 @@ describe PagesController do
 
   before(:each)do
   #
-  @base_title = "Ayam hutan masuk kampung disebelah rumah"
+  @base_title = "Ruby on Rails Tutorial Sample App"
   #
   end
   describe "GET 'home'" do
